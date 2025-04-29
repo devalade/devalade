@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer, Developer!!
 
-- 🌱 I'm learning Rust🤣
+- 🌱 I'm learning Go🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about Laravel, Nodejs and React
 - 📫 How to reach me: **aladecharaf23@gmail.com**;
