@@ -1,7 +1,7 @@
 ### Hi there, I'm Alade - aka [devalade] 👋
 
 
-## I'm a Software Engineer, Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I'm learning Go🤣
 - 👯 I’m looking to collaborate with other content creators
