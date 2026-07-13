@@ -1,24 +1,44 @@
-### Hi there, I'm Alade - aka [devalade] 👋
+# Alade YESSOUFOU
 
+Software engineer building developer tools and programming languages. I work mostly in
+Node.js, and I'm currently learning Go.
 
-## I'm a Software Engineer!!
+## Projects
 
-- 🌱 I'm learning Go🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about Laravel, Nodejs and React
-- 📫 How to reach me: **aladecharaf23@gmail.com**;
-- ⚡ Fun fact: I love videos Game and mangas
-- Porfolio: https://devalade.me
+- **[shipnode](https://github.com/devalade/shipnode)**: A CLI to deploy Node.js apps to a
+  single VPS with zero-downtime releases, PM2, and Caddy. No Docker, no Kubernetes. The
+  interesting part is the fluent config builder and Capistrano-style release symlinks with
+  instant rollback, plus built-in SSH hardening and Cloudflare Tunnel support.
 
-### Connect with me:
+- **[AlgoLang](https://github.com/devalade/algo)**: An educational programming language with
+  intuitive French syntax that compiles to JavaScript. A from-scratch lexer to parser to codegen
+  pipeline, with a pedagogical mode that annotates the generated JS so learners can see how
+  their code maps to JavaScript.
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dev_alade/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devalade/)
-[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](aladecharaf23@gmail.com)
+- **[crudify](https://github.com/devalade/crudify)**: A Laravel package that scaffolds full CRUD
+  from a single command. It generates models, migrations, policies, Livewire v4 / Volt pages,
+  factories, and seeders, with relationships, soft deletes, file uploads, and searchable fields.
 
-<br />
+- **[adam](https://github.com/ZeL4bs/adam)**: A filesystem-first framework for durable AI agents
+  that runs as a long-lived Node process on a self-hosted VPS. An agent is authored as a directory
+  of instructions, tools, skills, and schedules, then built and deployed (often via shipnode).
 
-### Languages and Tools:
+- **[reflection](https://github.com/devalade/reflection-class)**: A zero-dependency TypeScript
+  library for runtime introspection of JavaScript classes and objects, inspired by PHP's
+  Reflection. Discover properties and methods with descriptors, invoke members dynamically, and
+  optionally read decorator metadata, aimed at plugin systems, serializers, and lightweight DI.
 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23039BE5.svg?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/reactnative-%23039BE5.svg?style=for-the-badge&logo=reactnative) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23430098.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- **[better-primitives](https://github.com/devalade/better-primitives)**: Effect-shaped async
+  primitives for TypeScript built on Promise, AbortSignal, and better-result, with no Effect
+  runtime. It models a lazy Task with an explicit typed-failure channel, plus typed streams,
+  resources, scopes, and structured concurrency.
 
+## Contributions
+
+- **[trivule](https://github.com/jsbenin/trivule)**: A TypeScript library for form validation in
+  plain HTML or JavaScript, with real-time, declarative rules. Part of the JSBenin community.
+
+## Contact
+
+- Email: github@devalade.me
+- Site: https://devalade.me
