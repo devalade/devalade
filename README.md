@@ -59,11 +59,18 @@ Published packages and work built around AdonisJS 7.
   Observe product (landing page plus dashboard UI) built as a pnpm and Turborepo monorepo with a
   single AdonisJS 7 + Inertia React app on a shadcn-based design system.
 
-## Currently building
+## Products
 
-Private work, so no links: **freestack**, a free bilingual tools suite on TanStack Start and
-PocketBase; **onpair**; **vawu.chat**, a front door to the open-source models; and role-based
-permissions plus an AI harness layer for AdonisJS in the AdonisJS+ org.
+- **[onpair.dev](https://onpair.dev)**: A GitHub App that reviews every pull request for the
+  documentation it leaves behind — renamed environment variables, changed routes, stale config
+  keys, altered public exports — and reports back as a check run before the drift ships.
+  Deterministic contract analysis first, an optional AI doc-drift pass on top.
+
+- **[freestack](https://freestack.devalade.me)**: A suite of around twenty small bilingual
+  (FR/EN) web tools — biolink, waitlist, feedback, status page, forms, polls, paste, split bill,
+  bookmarks, countdown and more. TanStack Start, PocketBase and DaisyUI, deployed with shipnode.
+
+- **vawu.chat**: A front door to the open-source models.
 
 ## Contributions
 
