@@ -70,7 +70,11 @@ Published packages and work built around AdonisJS 7.
   (FR/EN) web tools — biolink, waitlist, feedback, status page, forms, polls, paste, split bill,
   bookmarks, countdown and more. TanStack Start, PocketBase and DaisyUI, deployed with shipnode.
 
-- **vawu.chat**: A front door to the open-source models.
+- **[vawu.chat](https://vawu.chat)**: A link-and-discussion community for people building in and
+  for Africa. Submissions get ranked, discussed, voted on and moderated, and reputation is earned
+  rather than claimed. Built for low-end Android over expensive mobile data: server-rendered HTML,
+  forms as the API, and JavaScript only where a page that already works needs it. One AdonisJS
+  modular monolith on SQLite, deployable to a single small VPS.
 
 ## Contributions
 
